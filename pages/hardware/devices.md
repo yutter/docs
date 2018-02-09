@@ -82,7 +82,7 @@ __Note:__ Some Raspberry Pi generations (1, 2 and 3, aka RPI1, RPI2 and RPI3) ha
 
 ![Samsung Artik 5](/img/artik710/A710.jpg)
 
-### [NVIDIA Jetson TX2](https://developer.nvidia.com/embedded/buy/jetson-tx2)
+### [NVIDIA Jetson TX1](https://developer.nvidia.com/embedded/buy/jetson-tx1) and [TX2](https://developer.nvidia.com/embedded/buy/jetson-tx2)
 
 ![Jetson TX2](/img/jetson-tx2.png)
 
