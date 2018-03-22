@@ -188,5 +188,25 @@
     "rustLinker": "arm-linux-gnueabihf-gcc",
     "cppTriple": "arm-unknown-linux-gnueabi",
     "icon": "/img/device/ts4900.svg"
+  },
+  {
+    "id": "generic-aarch64",
+    "name": "Generic AARCH64 (ARMv8)",
+    "arch": "aarch64",
+    "bootMedia": "SD card",
+    "rustTriple": "armv7-unknown-linux-gnueabihf",
+    "rustLinker": "arm-linux-gnueabihf-gcc",
+    "cppTriple": "arm-unknown-linux-gnueabi",
+    "icon": "/img/device/generic-aarch64.svg"
+  },
+  {
+    "id": "generic-armv7ahf",
+    "name": "Generic ARMv7-a HF",
+    "arch": "armv7hf",
+    "bootMedia": "SD card",
+    "rustTriple": "armv7-unknown-linux-gnueabihf",
+    "rustLinker": "arm-linux-gnueabihf-gcc",
+    "cppTriple": "arm-unknown-linux-gnueabi",
+    "icon": "/img/device/generic-armv7ahf.svg"
   }
 ]
